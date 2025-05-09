@@ -57,7 +57,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/University/University coureses/University/3000 Level/1st Semester/Course/CSC3103 Server Side Programming/Assignment 5/course-registration-system",
+    "last_opened_file_path": "C:/Users/GMCha/.SmartTomcat/course-registration-system/course-registration-system",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -85,9 +85,9 @@
       <predefined_log_file id="Tomcat Catalina Log" />
       <predefined_log_file id="Tomcat Manager Log" />
       <predefined_log_file id="Tomcat Host Manager Log" />
-      <option name="catalinaBase" value="C:\Users\GMCha\.SmartTomcat\course-registration-system" />
-      <option name="contextPath" value="/course-registration-system " />
-      <option name="docBase" value="C:\University\University coureses\University\3000 Level\1st Semester\Course\CSC3103 Server Side Programming\Assignment 5\course-registration-system" />
+      <option name="catalinaBase" value="C:\Users\GMCha\.SmartTomcat\course-registration-system\course-registration-system" />
+      <option name="contextPath" value="/course-registration-system/" />
+      <option name="docBase" value="C:\University\University coureses\University\3000 Level\1st Semester\Course\CSC3103 Server Side Programming\Assignment 5\course-registration-system\out\artifacts\course_registration_system_war_exploded" />
       <option name="envOptions">
         <map />
       </option>
@@ -118,7 +118,7 @@
       <workItem from="1746793373613" duration="307000" />
       <workItem from="1746793688124" duration="625000" />
       <workItem from="1746794321237" duration="6319000" />
-      <workItem from="1746800651860" duration="3868000" />
+      <workItem from="1746800651860" duration="5609000" />
     </task>
     <servers />
   </component>
